@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-11-15', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -54,6 +54,8 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/Kemiaojun',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://kemaiosw.top',
+  HEO_INFO_CARD_ICON2: 'fab fa-telegram',
+  HEO_INFO_CARD_URL3: 'https://t.me/kemiaofx_me',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
