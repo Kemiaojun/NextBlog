@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/Kemiaojun',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-    HEO_INFO_CARD_ICON3: 'fab fa-telegram',
+  HEO_INFO_CARD_ICON3: 'fab fa-telegram',
   HEO_INFO_CARD_URL3: 'https://t.me/kemiaofx_me',
   HEO_INFO_CARD_URL4: 'https://kemaiosw.top',
   HEO_INFO_CARD_TEXT4: '了解更多',
